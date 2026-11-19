@@ -19,4 +19,4 @@ Or open the notebook and choose *Restart & Run All*. A full run takes about 3–
 
 ## Data
 - `dset0-1.csv`, `dset1-1.csv`: course datasets. The first column is the binary label.
-- `winequality-white.csv`: the UCI Wine Quality (white) dataset. If the file is missing, the notebook downloads it.
+- `winequality-white.csv`: the course-provided white-wine data (identical to the UCI Wine Quality white file). If the file is missing, the notebook downloads it.
